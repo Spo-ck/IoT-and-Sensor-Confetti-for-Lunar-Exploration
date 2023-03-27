@@ -48,7 +48,4 @@ LARS is a IoT Technology based Sensor System, that has been designed for a possi
 
 ## Presentation at IGLUNA (CERN)
 
-[![IMAGE ALT TEXT HERE]()](https://youtu.be/4L_s5pQsbgc]()
-
-
-[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/Spo-ck/IoT-for-Lunar-Exploration/main/LARS-Sensor-System/Pictures/Presentation/Presentation%20at%20Igluna.png)](https://youtu.be/4L_s5pQsbgc](https://youtu.be/zSVgKGvON6M?t=1388)
+[<img src="https://raw.githubusercontent.com/Spo-ck/IoT-for-Lunar-Exploration/main/LARS-Sensor-System/Pictures/Presentation/Presentation%20at%20Igluna.png">](https://youtu.be/zSVgKGvON6M?t=1388)
