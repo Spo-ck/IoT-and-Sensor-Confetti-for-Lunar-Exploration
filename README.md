@@ -25,6 +25,19 @@ LCARS is a IoT Technology based Mission Control System, that has been designed f
 
 ### Standard View
 
+![image](https://raw.githubusercontent.com/Spo-ck/IoT-for-Lunar-Exploration/main/LCARS-IoT-Mission-Contol/Photos/Standard-System/781FDC12-3626-432A-9134-3CF12216B0A1.jpg)
+![image](https://raw.githubusercontent.com/Spo-ck/IoT-for-Lunar-Exploration/main/LCARS-IoT-Mission-Contol/Photos/Standard-System/EBF85161-92C2-498D-81F8-F756FBE27404.jpg)
+![image](https://raw.githubusercontent.com/Spo-ck/IoT-for-Lunar-Exploration/main/LCARS-IoT-Mission-Contol/Photos/Standard-System/75D53DEB-380D-41F7-B1CA-6C907F27A66B.jpg)
+![image](https://raw.githubusercontent.com/Spo-ck/IoT-for-Lunar-Exploration/main/LCARS-IoT-Mission-Contol/Photos/Standard-System/A1603809-9239-4C9E-9761-2A86B975DDFC.jpg)
+![image](https://raw.githubusercontent.com/Spo-ck/IoT-for-Lunar-Exploration/main/LCARS-IoT-Mission-Contol/Photos/Standard-System/6CDDA1D4-D0FC-4696-BFC6-4134CD67D167.jpg)
+![image](https://raw.githubusercontent.com/Spo-ck/IoT-for-Lunar-Exploration/main/LCARS-IoT-Mission-Contol/Photos/Standard-System/IMG_4717.jpg)
+![image](https://raw.githubusercontent.com/Spo-ck/IoT-for-Lunar-Exploration/main/LCARS-IoT-Mission-Contol/Photos/Standard-System/IMG_4720.jpg)
+![image](https://raw.githubusercontent.com/Spo-ck/IoT-for-Lunar-Exploration/main/LCARS-IoT-Mission-Contol/Photos/Standard-System/IMG_4722.jpg)
+![image](https://raw.githubusercontent.com/Spo-ck/IoT-for-Lunar-Exploration/main/LCARS-IoT-Mission-Contol/Photos/Standard-System/IMG_4719.jpg))
+![image](https://raw.githubusercontent.com/Spo-ck/IoT-for-Lunar-Exploration/main/LCARS-IoT-Mission-Contol/Photos/Standard-System/IMG_4723.jpg)
+![image](https://raw.githubusercontent.com/Spo-ck/IoT-for-Lunar-Exploration/main/LCARS-IoT-Mission-Contol/Photos/Standard-System/IMG_4724.jpg)
+![image](https://raw.githubusercontent.com/Spo-ck/IoT-for-Lunar-Exploration/main/LCARS-IoT-Mission-Contol/Photos/Standard-System/IMG_4721.jpg)
+
 
 ## LARS - Lunar Advanced Remote Sensor System
 
