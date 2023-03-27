@@ -1,1 +1,1 @@
-# IoT-for-Lunar-Exploration
+# IoT for Lunar Exploration
