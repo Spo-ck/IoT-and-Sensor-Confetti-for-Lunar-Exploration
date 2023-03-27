@@ -42,3 +42,5 @@ LCARS is a IoT Technology based Mission Control System, that has been designed f
 ## LARS - Lunar Advanced Remote Sensor System
 
 LARS is a IoT Technology based Sensor System, that has been designed for a possible application on the lunar Surface
+
+![image](https://raw.githubusercontent.com/Spo-ck/IoT-for-Lunar-Exploration/main/LARS-Sensor-System/Pictures/Presentation/307face8-4df4-415e-83c5-395e1f95956d.jpg)
