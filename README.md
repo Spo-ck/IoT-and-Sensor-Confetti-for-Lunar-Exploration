@@ -1,4 +1,4 @@
-# IoT for Lunar Exploration
+# IoT and Sensor Confetti for Lunar Exploration
 
 This is the project Page of a previous project I did about IoT based Sensor and Control Systems with focus on lunar exploration. I'll use this repository to present my work in the corse of this year. If you have any question regarding the project in the mean time, feel free to drop me a mail: jan@zuenkler.eu
 
